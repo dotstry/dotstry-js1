@@ -27,5 +27,5 @@ switch (goof)
         console.log("This is five.");
         break;
     default:
-        console.log("Please choose a number.")
+        console.log("Please choose a number.");
 }
